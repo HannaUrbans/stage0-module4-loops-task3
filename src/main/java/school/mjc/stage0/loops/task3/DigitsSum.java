@@ -13,7 +13,7 @@ public class DigitsSum {
         System.out.println(sum);
     }
 
-    public static void main(String[] args) {
+    public static void main( ) {
         int t = 243580001;
         printDigitsSum(t);
     }
